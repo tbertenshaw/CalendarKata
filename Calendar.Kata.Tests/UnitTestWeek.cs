@@ -12,7 +12,6 @@ namespace Calendar.Kata.Tests
 			// Arrange
 			var week = new Data.Week();
 
-			// Act
 			// Assert
 			Assert.IsNotNull(week);
 			Assert.IsNotNull(week.Days);
